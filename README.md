@@ -22,3 +22,6 @@ different moves in order to try and make the most beneficial moves available. Pl
 option to play against real people in realtime in a multiplayer game mode, allowing them to play chess as if in real life.
 
 Mentor: Christopher Saldivar, csaldivar@AState.edu
+
+Demo/presentation
+https://www.youtube.com/watch?v=Eja1bVbchBA
